@@ -42,9 +42,9 @@ Ensure you have the appropriate dataset in CSV format to run the project. If no 
 The following models are explored and evaluated in the project:
 
 - Linear Regression
+- Polynomial Regression
 - Decision Tree
 - Random Forest
-- Gradient Boosting (e.g., XGBoost, LightGBM)
 
 Each model's performance is compared to identify the best fit for the dataset.
 
